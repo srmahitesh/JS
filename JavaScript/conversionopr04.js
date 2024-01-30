@@ -18,8 +18,6 @@ console.log(value) //we must checking to avoid such errors/issues
 //if undefined-value nan
 //for bool, true=1, false=0
 //for any strings etc. nan
-let x             //for empty wheather number string false, else always true
+let x           //for empty wheather number string false, else always true
 let y=Boolean(x)
 console.log(y);
-
-

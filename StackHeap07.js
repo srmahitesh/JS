@@ -1,6 +1,3 @@
-// console.log("Hello World!")
-// //code and git are working sucessfully
-
 let userOne={
     name: "Sahil",
     gf:"Chahat",
